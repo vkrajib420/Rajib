@@ -55,7 +55,7 @@ def banner():
 	print("%s║%s  Author   : %sRAJIB420                 %s║"%(Z,B,M,Z))
 	print("%s║%s  Github   : https://github.com/Rajib %s║"%(Z,B,Z))
 	print("%s║%s  Telegram : https://t.me/Rajib       %s║"%(Z,B,Z))
-	print("%s║%s  Version  : %s3.0                          %s║"%(Z,B,H,Z))
+	print("%s║%s  Version  : %s0.9                          %s║"%(Z,B,H,Z))
 	print("%s╚══════════════════════════════════════════╝"%(Z))
 	print("")
 	xox('            %s》%s》%s》%sUIDCR3K%s《%s《%s《'%(M,H,B,H,B,H,M))
